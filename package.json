@@ -1,10 +1,11 @@
 {
-  "name": "db",
+  "name": "u-develop-it",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
